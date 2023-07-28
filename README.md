@@ -10,5 +10,5 @@ This project aims to analyze customer feedback and reviews about British Airways
 - Word Cloud Generation: A word cloud is created to identify frequently mentioned negative topics in non-recommended reviews.
 - Objective: The objective is to provide valuable insights to improve customer service and drive key business decisions for British Airways.
 
-  ## 3. Contributor
-  Linh Tran
+## 3. Contributor
+Linh Tran
